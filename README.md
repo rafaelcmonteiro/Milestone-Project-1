@@ -9,13 +9,13 @@
 
 Implementation Taks
 
-- [ ] Decide where to store movies in code
+- [x] Decide where to store movies in code
     - Stored in dictionary
-- [ ] Decide what data we want to store for each movie
+- [x] Decide what data we want to store for each movie
     - Title
     - Director
     - Release year
-- [ ] Show the user a menu and let them pick an option
+- [x] Show the user a menu and let them pick an option
     - Menu using while loop
-- [ ] Implement each requirement in turn, each as a separete function
-- [ ] Store running the program when they type 'q' in the menu
+- [x] Implement each requirement in turn, each as a separete function
+- [x] Store running the program when they type 'q' in the menu
